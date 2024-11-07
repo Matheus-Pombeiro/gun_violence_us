@@ -16,7 +16,9 @@
   <li>Address: The specific address of the incident.</li>
   <li>Number of Killed: The number of people killed in the incident.</li>
   <li>Number of Injured: The number of people injured in the incident.</li> 
-  <li>Number of Arrested: The number of people arrested in the incident.</li>  
+  <li>Number of Arrested: The number of people arrested in the incident.</li> 
+  <li>Latitude: The latitude coordinate of the incident location.</li>
+  <li>Longitude: The longitude coordinate of the incident location.</li>
 </ul>
 
 ### 1.2 Questions to be answered
