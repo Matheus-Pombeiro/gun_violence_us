@@ -29,6 +29,6 @@
   <li>What’s the means of victims and suspects killed in the city with the highest number of records? Are these numbers related in any way?</li>
   <li>Are there more suspects killed, injured or arrested? Are the results good?</li>
   <li>What’s the relation between victims killed and suspects arrested in each occurrence?</li>
-  <li>Which state has the highest number of victims killed? And about suspects killed/?</li>
+  <li>Which state has the highest number of victims killed? And about suspects killed?</li>
   <li>Among the records, is there any address (street, avenue or road) that appears more than once? And, if so, what’s the number of victims killed and injured there?</li>
 </ul>
