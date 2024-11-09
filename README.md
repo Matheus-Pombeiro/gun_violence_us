@@ -59,3 +59,17 @@
 <br>
 
 <p align='justify'>Analyzing the previous graph, it’s possible to observe differences and similarities about its numbers in comparison to the Illinois graph. The two graphs present different numbers for some months. The month with the most part of incidents in Illinois presented six (6) records, but in Chicago this same month presented five (5) ones. And they show a similar increase of incidents until the seventh month, and, after that, a decrease.</p>
+
+### 2.2 Number of victims and suspects killed
+
+<p align='justify'>About the number of victims and suspects killed in Chicago, the city with the most part of incidents recorded, there is a considerable difference between them. While there weren’t any suspects killed, the number of records of victims killed was almost a half from the total quantity of records. Next, there are two charts showing these two variables.</p>
+
+<div align="center">
+  <img src="assets/graphs/victims_killed.png" alt="Victims Killed in Chicago graph"/>
+</div>
+<br>
+
+<div align="center">
+  <img src="assets/graphs/suspects_killed.png" alt="Suspects Killed in Chicago graph"/>
+</div>
+<br>
