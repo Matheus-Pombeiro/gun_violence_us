@@ -85,7 +85,7 @@
 
 <p align='justify'>In general, police officers in the US usually only kill someone if they’re causing risks of life to another person or a determined group of people. So, these numbers indicate good results in fact, because this means that police officers there were able to arrest suspects before they cause more problems and instead of killing them. This shows a good performance by the US police officers.</p>
 
-### Relation between victims killed and suspects arrested
+### 2.4 Relation between victims killed and suspects arrested
 
 <p align='justify'>In terms of the relation between victims killed and suspects arrested in the US during the ten first years of 2024, there is an interesting difference. Through the next graph it’s possible to realize that there were more victims killed than suspects arrested when there were at least one of each of them recorded within the dataset.</p>
 
