@@ -27,7 +27,7 @@
 
 <ul>
   <li>What state and city have the most incident records? And during which month did the most of those incidents happen?</li>
-  <li>What’s the means of victims and suspects killed in the city with the highest number of records? Are these numbers related in any way?</li>
+  <li>What’s the number of victims and suspects killed in the city with the highest number of records? Are these numbers related in any way?</li>
   <li>Are there more suspects killed, injured or arrested? Are the results good?</li>
   <li>What’s the relation between victims killed and suspects arrested in each occurrence?</li>
   <li>Which state has the highest number of victims killed? And about suspects killed?</li>
