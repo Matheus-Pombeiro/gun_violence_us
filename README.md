@@ -74,16 +74,16 @@
 </div>
 <br>
 
-### 2.3 About suspects in Chicago
+### 2.3 About suspects in the US
 
-<p align='justify'>About the number of suspects killed, injured or arrested in Chicago, there is such a difference among them, which may make someone think whether these are good or bad results. Analyzing the following chart, it’s possible to note that the number of suspects arrested is bigger than the others. But is this a really good result?</p>
+<p align='justify'>About the number of suspects killed, injured or arrested in the US, there is such a difference among them, which may make someone think whether these are good or bad results. Analyzing the following chart, it’s possible to note that the number of suspects arrested is bigger than the others. But is this a really good result?</p>
 
 <div align="center">
-  <img src="assets/graphs/about_suspects_chicago.png" alt="About Suspects in Chicago graph"/>
+  <img src="assets/graphs/about_suspects_us.png" alt="About Suspects in the US graph"/>
 </div>
 <br>
 
-<p align='justify'>In general, police officers usually only kill someone if they’re causing risks of life to another person or a determined group of people. So, these numbers indicate good results in fact, because this means that police officers in Chicago were able to arrest suspects before they cause more problems and instead of killing them. This shows a good performance by the Chicago Police Department.</p>
+<p align='justify'>In general, police officers in the US usually only kill someone if they’re causing risks of life to another person or a determined group of people. So, these numbers indicate good results in fact, because this means that police officers there were able to arrest suspects before they cause more problems and instead of killing them. This shows a good performance by the US police officers.</p>
 
 ### Relation between victims killed and suspects arrested
 
