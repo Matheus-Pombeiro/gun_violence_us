@@ -84,3 +84,14 @@
 <br>
 
 <p align='justify'>In general, police officers usually only kill someone if they’re causing risks of life to another person or a determined group of people. So, these numbers indicate good results in fact, because this means that police officers in Chicago were able to arrest suspects before they cause more problems and instead of killing them. This shows a good performance by the Chicago Police Department.</p>
+
+### Relation between victims killed and suspects arrested
+
+<p align='justify'>In terms of the relation between victims killed and suspects arrested in the US during the ten first years of 2024, there is an interesting difference. Through the next graph it’s possible to realize that there were more victims killed than suspects arrested when there were at least one of each of them recorded within the dataset.</p>
+
+<div align="center">
+  <img src="assets/graphs/victims_suspects_us.png" alt="Victims and suspects in the US graph"/>
+</div>
+<br>
+
+<p align='justify'>This can indicate several possibilities, like suspects escaping from the police or a lesser number of suspects involved in the most occurrences than victims. Anyway, the difference isn’t very big, which, again, shows that the public security in the US is doing a good job.</p>
