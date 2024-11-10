@@ -95,3 +95,23 @@
 <br>
 
 <p align='justify'>This can indicate several possibilities, like suspects escaping from the police or a lesser number of suspects involved in the most occurrences than victims. Anyway, the difference isn’t very big, which, again, shows that the public security in the US is doing a good job.</p>
+
+### 2.5 States with the highest number of people killed
+
+<p align='justify'>The dataset enables analyzing the states with the highest number of victims and suspects killed recorded. But who are they? Is there a relation among them? Observing the following graph, it’s possible to realize the three states with the highest number of victims killed.</p>
+
+<div align="center">
+  <img src="assets/graphs/states_victims_killed.png" alt="States victims killed graph"/>
+</div>
+<br>
+
+<p align='justify'>The previous graph shows a small difference among the three states about this topic. This difference indicates a similarity about the dangers of living, or just spending time, in one of them. Although, there are some reasonable differences between them and the states with the highest number of suspects killed. Through the next graph, it’s possible to discern those differences.</p>
+
+<div align="center">
+  <img src="assets/graphs/states_suspects_killed.png" alt="States suspects killed graph"/>
+</div>
+<br>
+
+<p align='justify'>Observing the previous graph, those differences mentioned before can be noted by perceiving that the states are not the same in the two graphs. There is another difference as well, the quantity of suspects killed is significantly lesser than victims killed.</p>
+
+<p align='justify'>As it was analyzed before, the relation between the number of victims killed and suspects arrested is quite good, because there is a small difference between the two variables. Then, what does this point out about this matter? It demonstrates, again, a nice accomplishment based on public security by the US.</p>
