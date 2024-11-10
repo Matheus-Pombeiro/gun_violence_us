@@ -115,3 +115,16 @@
 <p align='justify'>Observing the previous graph, those differences mentioned before can be noted by perceiving that the states are not the same in the two graphs. There is another difference as well, the quantity of suspects killed is significantly lesser than victims killed.</p>
 
 <p align='justify'>As it was analyzed before, the relation between the number of victims killed and suspects arrested is quite good, because there is a small difference between the two variables. Then, what does this point out about this matter? It demonstrates, again, a nice accomplishment based on public security by the US.</p>
+
+### 2.6 Addresses and victims
+
+<p align='justify'>Analyzing the dataset, it was concluded that there aren’t any addresses which appear more than once. To get this information, first it was filtered the “Address” column to get only streets, avenues and roads where gun incidents in the US were recorded. After that, it was used the mode, a statistical method, to find addresses which appeared more than once, but all of them just appeared one time in the dataset. And, because of that, it wasn’t possible to calculate the number of victims killed and injured at them.</p>
+
+## 3. Final conclusions
+
+<p align='justify'>Throughout the development of this data science project, about gun violence in the US, some questions were answered based on the dataset used in it. Statistical methods were used and graphs were plotted to extract and visualize information from the data. This project was developed using Pandas, which is a Python library focused on data analysis.</p>
+
+<p align='justify'>Next, there is the project author’s name and the conclusion date of it. Feel free, and encouraged, to access his social media profiles, especially on <a href="https://github.com/Matheus-Pombeiro" target="_blank" rel="noopener noreferrer">GitHub</a> and <a href="https://www.linkedin.com/in/matheus-pombeiro/" target="_blank" rel="noopener noreferrer">LinkedIn</a>.</p>
+
+<p align='right'>Matheus V. G. Pombeiro</p>
+<p align='right'>November 10, 2024</p>
